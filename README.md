@@ -87,7 +87,7 @@ This project aims to analyze the **used car market in India** using Python, leve
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/used-car-analysis-india.git
+   git clone https://github.com/Abhishekkale93/Analyzing-Used-Car-Market-in-India.git
    
 2. **Install dependencies**
     pip install pandas numpy matplotlib seaborn jupyter
@@ -95,6 +95,10 @@ This project aims to analyze the **used car market in India** using Python, leve
 3. **Run the notebook**
     jupyter notebook
 
-   ##  Author
-   Abhishek Kale
+##  Author
+
+**Abhishek Kale**  
+ kaleabhishek0101@gmail.com  
+ Pune, India  
+ [LinkedIn](https://www.linkedin.com/in/abhishek-kale-66bb961b2/)
    
